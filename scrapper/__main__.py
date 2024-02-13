@@ -78,6 +78,8 @@ def retrieve_data():
     search_bar.send_keys(search_word)
     search_bar.send_keys(Keys.RETURN)
 
+    #I am comment
+
 
     #wait for the page to load
     sleep(5)
